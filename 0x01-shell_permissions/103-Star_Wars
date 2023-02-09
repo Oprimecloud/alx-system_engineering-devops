@@ -1,2 +1,2 @@
 #!/bin/bash
-in combin.com
+telnet towel.blinkenlights.nl
